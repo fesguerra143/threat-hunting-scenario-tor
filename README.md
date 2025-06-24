@@ -1,4 +1,5 @@
-<img width="400" src="https://github.com/user-attachments/assets/d27d2b98-2db1-4209-93b6-e77306b10943" alt="Tor Logo with the onion and a crosshair on it"/>
+<img width="400" src="(https://github.com/user-attachments/assets/0f7e9ff8-4a92-40df-98a2-7f08fe1e0565" alt="Tor Logo with the onion and a crosshair on it"/>
+
 
 
 # Threat Hunt Report: Unauthorized TOR Usage
